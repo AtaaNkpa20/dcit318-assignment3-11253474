@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\WarehouseInventorySystem\bin\Debug\net9.0\WarehouseInventorySystem.exe
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\WarehouseInventorySystem\bin\Debug\net9.0\WarehouseInventorySystem.deps.json
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\WarehouseInventorySystem\bin\Debug\net9.0\WarehouseInventorySystem.runtimeconfig.json
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\WarehouseInventorySystem\bin\Debug\net9.0\WarehouseInventorySystem.dll
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\WarehouseInventorySystem\bin\Debug\net9.0\WarehouseInventorySystem.pdb
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\WarehouseInventorySystem\obj\Debug\net9.0\WarehouseInventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\WarehouseInventorySystem\obj\Debug\net9.0\WarehouseInventorySystem.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\WarehouseInventorySystem\obj\Debug\net9.0\WarehouseInventorySystem.AssemblyInfo.cs
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\WarehouseInventorySystem\obj\Debug\net9.0\WarehouseInventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\WarehouseInventorySystem\obj\Debug\net9.0\WarehouseInventorySystem.sourcelink.json
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\WarehouseInventorySystem\obj\Debug\net9.0\WarehouseInventorySystem.dll
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\WarehouseInventorySystem\obj\Debug\net9.0\refint\WarehouseInventorySystem.dll
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\WarehouseInventorySystem\obj\Debug\net9.0\WarehouseInventorySystem.pdb
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\WarehouseInventorySystem\obj\Debug\net9.0\WarehouseInventorySystem.genruntimeconfig.cache
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\WarehouseInventorySystem\obj\Debug\net9.0\ref\WarehouseInventorySystem.dll
