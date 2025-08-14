@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\SchoolGradingSystem\bin\Debug\net9.0\SchoolGradingSystem.exe
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\SchoolGradingSystem\bin\Debug\net9.0\SchoolGradingSystem.deps.json
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\SchoolGradingSystem\bin\Debug\net9.0\SchoolGradingSystem.runtimeconfig.json
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\SchoolGradingSystem\bin\Debug\net9.0\SchoolGradingSystem.dll
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\SchoolGradingSystem\bin\Debug\net9.0\SchoolGradingSystem.pdb
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.AssemblyInfo.cs
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.sourcelink.json
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.dll
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\SchoolGradingSystem\obj\Debug\net9.0\refint\SchoolGradingSystem.dll
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.pdb
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.genruntimeconfig.cache
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\SchoolGradingSystem\obj\Debug\net9.0\ref\SchoolGradingSystem.dll
