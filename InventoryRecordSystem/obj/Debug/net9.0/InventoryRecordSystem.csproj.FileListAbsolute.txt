@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\InventoryRecordSystem\bin\Debug\net9.0\InventoryRecordSystem.exe
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\InventoryRecordSystem\bin\Debug\net9.0\InventoryRecordSystem.deps.json
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\InventoryRecordSystem\bin\Debug\net9.0\InventoryRecordSystem.runtimeconfig.json
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\InventoryRecordSystem\bin\Debug\net9.0\InventoryRecordSystem.dll
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\InventoryRecordSystem\bin\Debug\net9.0\InventoryRecordSystem.pdb
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\InventoryRecordSystem\obj\Debug\net9.0\InventoryRecordSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\InventoryRecordSystem\obj\Debug\net9.0\InventoryRecordSystem.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\InventoryRecordSystem\obj\Debug\net9.0\InventoryRecordSystem.AssemblyInfo.cs
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\InventoryRecordSystem\obj\Debug\net9.0\InventoryRecordSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\InventoryRecordSystem\obj\Debug\net9.0\InventoryRecordSystem.sourcelink.json
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\InventoryRecordSystem\obj\Debug\net9.0\InventoryRecordSystem.dll
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\InventoryRecordSystem\obj\Debug\net9.0\refint\InventoryRecordSystem.dll
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\InventoryRecordSystem\obj\Debug\net9.0\InventoryRecordSystem.pdb
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\InventoryRecordSystem\obj\Debug\net9.0\InventoryRecordSystem.genruntimeconfig.cache
+C:\Users\HP\Desktop\dcit318-assignment3-11253474\InventoryRecordSystem\obj\Debug\net9.0\ref\InventoryRecordSystem.dll

@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Name": "Laptop",
+    "Quantity": 5,
+    "DateAdded": "2025-08-15T00:51:58.8574178+01:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Mouse",
+    "Quantity": 20,
+    "DateAdded": "2025-08-15T00:51:58.895625+01:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Keyboard",
+    "Quantity": 10,
+    "DateAdded": "2025-08-15T00:51:58.8956324+01:00"
+  },
+  {
+    "Id": 4,
+    "Name": "Monitor",
+    "Quantity": 7,
+    "DateAdded": "2025-08-15T00:51:58.8956332+01:00"
+  },
+  {
+    "Id": 5,
+    "Name": "Printer",
+    "Quantity": 3,
+    "DateAdded": "2025-08-15T00:51:58.8956338+01:00"
+  }
+]
